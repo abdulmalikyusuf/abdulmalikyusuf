@@ -8,7 +8,7 @@
 ![Twitter Account](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)
 ![LinedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)
 
-![Avatar]("https://giphy.com/embed/wyE8xpziQGbqjvMirz")
+![Avatar](/octocat-20.png)
 
 ## 👷‍♂️ A litte something about me
 

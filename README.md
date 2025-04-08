@@ -48,6 +48,10 @@ A real-time notification system that:
 **Next.js | TailwindCSS | Stripe**  
 [Live Demo](https://cyber-ecommerce.vercel.app/)
 
+### 🌱 Grow Strong Foundation  
+*Next.js | TailwindCSS | Vercel|Supabase|Drizzle*  
+🔗 [Live Demo](https://grow-strong-foundation.vercel.app/)
+
 ### 🌍 **Africore Solutions**  
 **Business Infrastructure Architect**  
 [Company Site](https://africore.vercel.app/)  
